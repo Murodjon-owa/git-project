@@ -1,0 +1,103 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@100..900&family=Manrope:wght@200..800&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@100..900&family=Lexend+Deca:wght@100..900&family=Manrope:wght@200..800&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.content{
+    width: 920px;
+    margin: 0 auto;
+    background: #E28625;
+    display: flex;
+    border-radius: 8px;
+    .box{
+        background: #E28625;
+        width: 306px;
+        margin: 8px 0 0 8px;
+        border-radius: 8px 0 0 8px;
+        padding: 48px 47.5px 48px 47.5px;
+        h3{
+            font-weight: 700;
+            margin-top: 35px;
+            font-family: "Big Shoulders Display", sans-serif;
+            font-size: 40px;
+            line-height: 47.88px;
+            color: #ffffff;
+        }
+        p{
+            font-weight: 400;
+            font-family: "Lexend Deca", sans-serif;
+            font-size: 15px;
+            line-height: 25px;
+            margin: 25px 0 83px 0;
+            color: #ffffff;
+        }
+        button{
+            padding: 11px 31.5px 12px 31.5px;
+            background: #ffffff;
+            color: #E28625;
+            border: none;
+            border-radius: 100px;
+        }
+    }
+    .mein{
+        background-color: #006971;
+        width: 307px;
+        border-radius: 0 0 0 0;
+        padding: 48px 47.5px 48px 47.5px;
+        h3{
+            font-weight: 700;
+            margin-top: 35px;
+            font-family: "Big Shoulders Display", sans-serif;
+            font-size: 40px;
+            line-height: 47.88px;
+            color: #ffffff;
+        }
+        p{
+            font-weight: 400;
+            font-family: "Lexend Deca", sans-serif;
+            font-size: 15px;
+            line-height: 25px;
+            color: #ffffff;
+            margin: 25px 0 83px 0;
+        }
+        button{
+            padding: 11px 31.5px 12px 31.5px;
+            background: #ffffff;
+            color: #E28625;
+            border: none;
+            border-radius: 100px;
+        }
+    }
+    .card{
+        background-color: #004140;
+        width: 307px;
+        border-radius: 0 8px 8px 0;
+        padding: 48px 47.5px 48px 47.5px;
+        h3{
+            font-weight: 700;
+            margin-top: 35px;
+            font-family: "Big Shoulders Display", sans-serif;
+            font-size: 40px;
+            line-height: 47.88px;
+            color: #ffffff;
+        }
+        p{
+            font-weight: 400;
+            font-family: "Lexend Deca", sans-serif;
+            font-size: 15px;
+            line-height: 25px;
+            margin: 25px 0 83px 0;
+            color: #ffffff;
+        }
+        button{
+            padding: 11px 31.5px 12px 31.5px;
+            background: #ffffff;
+            color: #E28625;
+            border: none;
+            border-radius: 100px;
+        }
+    }
+}
